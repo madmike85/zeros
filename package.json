@@ -18,5 +18,8 @@
   "devDependencies": {
     "mocha": "^3.2.0"
   },
-  "homepage": "https://github.com/yankouskia/additional_6#readme"
+  "homepage": "https://github.com/yankouskia/additional_6#readme",
+  "dependencies": {
+    "bignumber.js": "^9.0.0"
+  }
 }
